@@ -4,7 +4,7 @@
 
 ## Bem vindo à GCET231 Circuitos Digitais II no GitHub 👋
 
-Esse perfil possui os repositórios relacionados às práticas realizadas em laboratório de GCET231. Acesse à [página da disciplina](https://gcet231.github.io) para mais informações sobre o curso.
+🙋‍♀️ Esse perfil possui os repositórios relacionados às práticas realizadas em laboratório de GCET231. Acesse à [página da disciplina](https://gcet231.github.io) para mais informações sobre o curso.
 
 ## Tutoriais
 
@@ -12,6 +12,10 @@ Essa página possui diversos tutoriais importantes para se dar bem ao longo do s
 
 - [Introdução ao GitHub](https://github.com/GCET231/tut1-github) - Aprenda os comandos básicos para trabalhar com Git.
 - [Instalação do Quartus Prime o ModelSim](https://github.com/GCET231/tut2-instalando-quartus-modelsim)
+
+## Roteiros de Laboratório
+
+🧙 Os roteiros de laboratório podem ser acessados [nesse repositório](https://github.com/GCET231/fpga_labs_22_1). Os roteiros são liberados semanalmente -- então fica ligado!
 
 <!--
 
